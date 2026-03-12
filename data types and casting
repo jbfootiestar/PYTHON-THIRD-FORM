@@ -1,0 +1,60 @@
+1. Match the value to its Python data type.
+	1. "Game Over" is a _______string_______
+	2. 42 is an ______integer________
+	3. 0.5 is a _____________real numbe_
+	4. False is a ______________boolean
+
+
+
+2. In Python, we use the _____int____() function to turn a String into a whole number, and the ____float_____() function to turn a String into a decimal number.
+ 
+
+
+3. Which of these is a valid character representation?
+A) char = A
+B) char = "A"
+C) char = [A]
+
+Answer: 
+-
+
+4. A Boolean value in Python must always start with a capital letter (e.g., True instead of true). Is this true or false?
+
+Answer: 
+
+
+5. By default, the input() function always saves data as a String. If I type 10 into an input box, Python sees it as "10". To fix this, I should write:
+age = ______(input("Enter age: ")) 
+
+Answer: 
+
+
+6. Which the value that is a Float:
+	100        "100.0"        100.0        True
+
+Answer: 
+
+
+7. Write a program that asks a user for the name of an item and its price and stores this information in 2 separate variables.
+	• The item name must be a String
+	• The price must be a Float
+	• Calculate a 10% discount (Price multiplied by 0.9) and print: "The new price for [item] is [discounted price]", where ‘[item]’ and ‘[discounted price]’ is where you reference your variables.
+
+Answer: 
+
+
+
+
+
+
+
+
+
+8. A user wants to enter a "Member Code" which is just a single letter.
+	• Ask the user for their Initial (Character)
+	• Ask for their Age (Integer)
+	• Create a Boolean variable called is_allowed. It should be True if the user is over 18.
+	• Print: "Access Granted: [is_allowed]".
+
+
+Answer: 
