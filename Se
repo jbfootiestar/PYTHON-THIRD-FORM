@@ -1,0 +1,11 @@
+Q1
+A computer system needs to check whether a user has entered the correct secret code. The correct code has already been stored in a variable called code. Complete the missing part of the program so that it compares the user's input with the correct code. If the user enters the correct code, the program should display the message "Access granted".
+·       Read the code carefully before filling in the blank.
+·       Complete the missing value in the condition.
+·       The program should only print "Access granted" when the user's input matches the stored code.
+code = "python"
+user = input("Enter the secret code: ")
+
+if user == __python____:
+    print("Access granted")
+
