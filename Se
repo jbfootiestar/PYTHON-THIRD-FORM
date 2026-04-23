@@ -9,3 +9,19 @@ user = input("Enter the secret code: ")
 if user == __python____:
     print("Access granted")
 
+Q2 
+You are writing a program that checks whether a number is even. A number is even when it can be divided by 2 and leaves a remainder of 0. Complete the missing part of the code so that the program correctly identifies an even number and prints the message "Even number".
+·       Think about what result num % 2 gives for an even number.
+·       Complete the missing value in the condition.
+·       The program should print "Even number" only when the remainder is correct.
+num = int(input("Enter a number: "))
+
+if num % 2 == __0____:
+    print("Even number")
+Q3 
+A website needs to place users into simple age categories. You need to write a complete Python program that asks the user to enter their age as a whole number. The program must then check whether the user is 13 years old or older. If the user is 13 or older, the program should display "Teenager". Otherwise, it should display "Child".
+·       Ask the user to enter their age.
+·       Store the age as an integer.
+·       Use an if/else statement to decide which message to print.
+
+doo dooo doo dododod dododooooooodooo dooodooodooo ododoodooo doodooodoo                                                   
