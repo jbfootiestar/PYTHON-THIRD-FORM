@@ -1,0 +1,50 @@
+Q1
+What will this code output?
+
+word = "cat"
+for letter in word:
+    print(letter)
+
+
+Q2 
+In this question, the code has been mixed up. Put the lines into the correct order so that that program will count the number of occurrences of "a" in "banana":
+
+Mixed lines of code:
+if char == "a":
+for char in word:
+count = count + 1
+word = "banana"
+count = 0
+print(count)
+
+
+Q3 
+Explain what this loop is doing:
+
+for character in "dog":
+    print(character)
+
+Then write your own similar example using a different 3-letter word.
+
+Q4
+A student writes this code to count the number of occurrences of  "e" in "cheese":
+
+word = "cheese"
+count = 0
+for char in word:
+    if char == "e":
+        count = count + 1
+print(char)
+
+Explain the mistake and correct the code.
+
+
+Q5
+Write a program that stores the word "Python" in a variable and uses a for loop to print each character on a new line.
+
+
+
+Extension
+
+Q6
+Write a program that stores a word in a variable and prints "Match" every time the letter is a vowel, and "No match" otherwise.
